@@ -1,4 +1,4 @@
-# devops18-dumbways-ngurahgedewisnugk
+# devops20-dumbways-ngurahgedewisnugk
 Task 1 - Bootcamp Devops Dumbways batch 20 
 
 Syarat tugas :
