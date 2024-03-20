@@ -29,4 +29,6 @@ Task :
       - Subnet : 255.255.255.0
       - Gateway : 192.168.1.1
 (Gunakan app.diagrams.net untuk membuat diagramnya, Referensi gambar sudah disertakan)
+![Rancangan Jaringan class c](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/assets/88923635/c2aa053a-526d-49fb-95e9-bb27e0324700)
+
 6. Buat step-by-step untuk menginstall Virutal Machine via VMware, Virtualbox atau VM pilihan kalian!
