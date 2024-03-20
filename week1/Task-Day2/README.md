@@ -2,7 +2,7 @@
 Task 1 - Bootcamp Devops Dumbways batch 20 
 
 Syarat tugas :
-- Membuat repostiory di GitHub dengan nama "devops18-dumbways-<nama>"
+- Membuat repostiory di GitHub dengan nama "devops20-dumbways-<nama>"
 - Membuat folder task per harinya dengan file "README.md" (bisa dibuat per folder/directory)
 
 Task :
