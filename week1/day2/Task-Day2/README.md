@@ -35,3 +35,4 @@ Jawaban :
 ![Rancangan Jaringan class c](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/assets/88923635/c2aa053a-526d-49fb-95e9-bb27e0324700)
 
 6. Buat step-by-step untuk menginstall Virutal Machine via VMware, Virtualbox atau VM pilihan kalian!
+   [Task-week1-devops-dumbways-batch20.docx](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/files/14704676/Task-week1-devops-dumbways-batch20.docx)
