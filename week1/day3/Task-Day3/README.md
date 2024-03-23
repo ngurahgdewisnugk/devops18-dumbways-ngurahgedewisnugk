@@ -39,6 +39,7 @@ sebelum ke step 1, lakukan systemctl stop nginx.
 ###Note: jangan lupa untuk command *sudo net apply* setelah melakukan perubahan ip address
 
 ***step 2 : setelah configurasi perubahan ip address, lakukan systemctl start nginx kembali, lalu cek statusnya dengan command systemctl status nginx***
+
 ![3b.change-ip2](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/blob/d87b4f314861597a8c7a813b6e69b2fde1bec9c5/week1/day3/Task-Day3/subject-matters/3b.change%20ip-2.png)
 
 ***step 3 : akses kembali nginx, menggunakan ip address yang sudah diubah tadi***
