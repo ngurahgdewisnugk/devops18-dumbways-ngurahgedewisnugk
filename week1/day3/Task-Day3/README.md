@@ -54,4 +54,12 @@ sebelum ke step 1, lakukan systemctl stop nginx.
 
 # Challange :
 
-1. Rubah nama hostname menjadi "dumbways"
+## 1. Rubah nama hostname menjadi "dumbways"
+   
+   a. Before
+
+   ![a.before](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/blob/64d89305b30378389138d7efceea35383ff56323/week1/day3/Task-Day3/challange/before.png)
+
+   b. After
+
+   ![b.after](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/blob/64d89305b30378389138d7efceea35383ff56323/week1/day3/Task-Day3/challange/after.png)
