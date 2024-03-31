@@ -11,3 +11,9 @@ Task :
 4. buatlah BASH Script untuk instalasi nginx
 
 ## Challange --> BASH Script - NodeJS
+
+Challenge :
+1. Install nodeJS using BASH Script
+- Installing nvm and npm
+- exec bash
+- Checking nvm, npm and node version
