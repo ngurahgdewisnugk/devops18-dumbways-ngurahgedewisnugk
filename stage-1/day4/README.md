@@ -6,9 +6,20 @@ Syarat tugas :
 
 Task :
 1. Buat 3 directory yang masing-masing berisi 2 file dan rapihkan sebaik mungkin!
+
+   Jawaban : [Task1](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/blob/main/stage-1/day4/answer-task.md#task-1)
+
 2. Penjelasan text manipulation beserta step by step
+
+   Jawaban : [Task2](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/blob/main/stage-1/day4/answer-task.md#task-2)
+
 3. Penjelasan tool htop atau nmon
+
+   Jawaban : [Task3](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/blob/main/stage-1/day4/answer-task.md#task-3)
+
 4. buatlah BASH Script untuk instalasi nginx
+
+   Jawaban : [Task4](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/blob/main/stage-1/day4/answer-task.md#task-4)
 
 ## Challange --> BASH Script - NodeJS
 
