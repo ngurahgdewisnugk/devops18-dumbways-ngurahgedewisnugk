@@ -28,3 +28,5 @@ Challenge :
 - Installing nvm and npm
 - exec bash
 - Checking nvm, npm and node version
+
+Jawaban : [Challange](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/blob/a4044d889b4302d00f41a5c5fd43c41b27fbfd62/stage-1/day4/answer-challange.md)
