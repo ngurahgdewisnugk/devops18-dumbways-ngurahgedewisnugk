@@ -1,4 +1,4 @@
-# List Devops Dumbways Batch 20 : 
+# List Devops Dumbways Batch 20 Stage 1 : 
 
 1. [Day2 - Networking & VM](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/tree/3434d365c14f8eecd2649b58333bb27914b74a70/stage-1/day2)
 2. [Day3 - Operating System & Linux Server](https://github.com/ngurahgdewisnugk/devops20-dumbways-ngurahgedewisnugk/tree/3434d365c14f8eecd2649b58333bb27914b74a70/stage-1/day3)
