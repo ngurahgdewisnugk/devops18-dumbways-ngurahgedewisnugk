@@ -1,4 +1,4 @@
-# Syarat tugas :
+# Syarat tugas --> Application In Server :
 ## - Membuat repostiory di GitHub dengan nama "devops20-dumbways-<nama>"
 ## - Membuat folder task per harinya dengan file "README.md" (bisa dibuat per folder/directory)
 
